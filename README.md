@@ -1,4 +1,4 @@
-##  Unidad 1: Fundamentos y Desarrollo de POO📚
+##  Unidad 1: Fundamentos y Desarrollo de POO
 **Trabajo Práctico Nº 1.2: Cajero Automático**  
 ---
 
